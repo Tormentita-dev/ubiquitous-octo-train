@@ -63,5 +63,12 @@
       "pipe": true,
       "service": true
     }
+  },
+  "architec":{
+    "serve":{
+      "options":{
+        "disableHostCheck": true
+      }
+    }
   }
 }
